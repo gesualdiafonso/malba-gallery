@@ -176,7 +176,7 @@ $msg = "Estamos testeando el sistema de rutas, por lo tanto estás en la vista d
 
     
 
-    <main class="uk-container">
+    <main class="uk-container animated fade-in-up" >
         <?php require_once("views/{$views->getName()}.php"); ?>
     </main>
 

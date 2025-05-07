@@ -501,3 +501,76 @@ form.uk-form-stacked label {
             url("/public/images/error_museo.jpg");
     }
 }
+
+
+/* ANIMACIÖN */
+@keyframes fadeInUp {
+    0% {
+        opacity: 0;
+        transform: translateY(40px);
+    }
+        100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes slideInLeft {
+    0% {
+        opacity: 0;
+        transform: translateX(-60px);
+    }
+        100% {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+@keyframes slideInRight {
+    0% {
+        opacity: 0;
+        transform: translateX(60px);
+    }
+        100% {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+.animated {
+    opacity: 0;
+    animation-fill-mode: forwards;
+    animation-timing-function: ease-out;
+}
+
+/* Utilitários com delays */
+.fade-in-up {
+    animation: fadeInUp 1s ease forwards;
+}
+
+.slide-in-left {
+    animation: slideInLeft 1s ease forwards;
+}
+
+.slide-in-right {
+    animation: slideInRight 1s ease forwards;
+}
+
+.delay-1 {
+    animation-delay: 0.3s;
+}
+.delay-2 {
+    animation-delay: 0.6s;
+}
+.delay-3 {
+    animation-delay: 0.9s;
+}
+.delay-4 {
+    animation-delay: 1.2s;
+}
+.delay-5 {
+    animation-delay: 1.5s;
+}
+.delay-6 {
+    animation-delay: 1.8s;
+}
