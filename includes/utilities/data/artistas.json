@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "cm",
+        "title": "Christian Montenegro",
+        "biografia": "Christian Montenegro es un reconocido ilustrador y diseñador gráfico argentino, nacido en Buenos Aires. Se licenció en Diseño Gráfico por la Universidad de Buenos Aires (UBA) y, tras un periodo trabajando en diseño, orientó su carrera hacia la ilustración, especialmente en el ámbito editorial e infantil. Es conocido internacionalmente por su trabajo con diversas editoriales, creando libros que exploran la forma, el color y la narrativa visual de manera innovadora. Su trabajo ya ha sido reconocido con importantes premios y menciones, como el Bologna Ragazzi Award.",
+        "image": "public/images/artistas/ChristianMontenegro.jpeg",
+        "estilo": "Estilo Ilustrador Gráfico, Geometrico, Arte Popular, Formas Sintéticas, Planos y Planos, Uso de Colores vibrante, a menudo utiliza <strong>figuras estilizadas</strong>, casi como pictogramas.",
+        "critica": "Montenegro invita a reflexionar sobre la forma en que construye su visión, explorando temas como la percepción, la transformación, la relación entre los individuos, y puede tener una «crítica» como reto para descifrar el significado en sus ilustraciones."
+    },
+    {
+        "id": 2,
+        "name": "ab",
+        "title": "Antonio Berni",
+        "biografia": "Antonio Berni (1905-1981) fue uno de los grandes artistas plásticos argentinos y un innovador en el uso del arte como herramienta de transformación social. Berni comenzó su carrera en el impresionismo, pero pronto se adentró en el realismo social, utilizando su obra para representar las desigualdades y la vida de las clases trabajadoras. Tras estudiar en Europa, absorbió influencias del surrealismo y los movimientos de vanguardia, pero se estableció como exponente del «Nuevo Realismo», donde mezclaba técnicas tradicionales con materiales reciclados y objetos encontrados, creando obras que narraban la realidad latinoamericana con brutal honestidad y compasión. Su obra está marcada por personajes emblemáticos como Juanito Laguna y Ramona Montiel, símbolos de las tensiones sociales y urbanas.",
+        "image": "public/images/artistas/AntonioBerni.jpg",
+        "estilo": "Realismo Social, Novo Realismo, Surrealismo",
+        "critica": "La obra de Antonio Berni fue profundamente crítica. Con su arte denunció la injusticia social, la pobreza, la explotación laboral y la marginación urbana. Con sus pinturas, collages y grabados, Berni expuso las contradicciones del progreso económico y dio voz a poblaciones olvidadas, convirtiendo su producción en un referente del arte comprometido y humanista, tanto en Argentina como en el ámbito internacional."
+    },
+    {
+        "id": 3,
+        "name": "am",
+        "title": "Ad Minoliti",
+        "biografia": "Ad Minoliti (Buenos Aires, 1980) es una artista contemporánea argentina reconocida internacionalmente por su obra, en la que se entrecruzan el arte, la teoría de género y el imaginario queer. Con formación en pintura tradicional, Minoliti empuja los límites de la geometría abstracta para crear universos alternativos que rompen las normas binarias de género, sexualidad y sociedad. Sus obras mezclan colores vibrantes, personajes híbridos y espacios utópicos, proponiendo realidades en las que las estructuras sociales pueden reinventarse de forma lúdica e inclusiva. Con exposiciones en prestigiosos museos como el Guggenheim y la Bienal de Venecia, Minoliti es una voz innovadora en el debate contemporáneo sobre identidad y política visual.",
+        "image": "public/images/artistas/AdMinoliti.jpg",
+        "estilo": "Abstracción geométrica contemporánea, Arte queer, Arte posthumano",
+        "critica": "La obra de Ad Minoliti es muy crítica con las normas sociales tradicionales. A través de narraciones visuales que cuestionan los conceptos de género, sexualidad y organización social, Minoliti crea entornos en los que se deconstruye la lógica heteronormativa. Su arte, aunque lúdico y colorista, es profundamente crítico con las jerarquías de poder y propone nuevos modelos de existencia, convirtiéndose en un manifiesto visual a favor de la diversidad y la inclusión."
+    },
+    {
+        "id": 4,
+        "name": "xs",
+        "title": "Xul Solar",
+        "biografia": "Xul Solar (1887-1963), nacido Oscar Agustín Alejandro Schulz Solari, fue uno de los artistas más visionarios y enigmáticos de América Latina. Argentino de origen multicultural, su obra trasciende la pintura, la escultura, la literatura y la lingüística. Xul creó lenguas imaginarias, como el «Neocriollo» y la «Pan Lingua», y diseñó ciudades e instrumentos místicos. Sus cuadros combinan elementos esotéricos, astrológicos y simbólicos en composiciones geométricas y oníricas, anticipando ideas de multiculturalismo y espiritualidad globalizada. Amigo e influyente de figuras como Jorge Luis Borges, Xul Solar está considerado un pionero del arte moderno latinoamericano y un creador de universos paralelos, tanto visuales como intelectuales.",
+        "image": "public/images/artistas/XulSolar.jpg",
+        "estilo": "Surrealismo, Abstracionismo Místico, Vanguardismo Latino-Americano.",
+        "critica": "La obra de Xul Solar no es directamente crítica en el sentido social tradicional, pero subvierte la realidad y propone alternativas radicales para la existencia. Su obra critica simbólica y filosóficamente los límites del lenguaje, la religión y las estructuras culturales actuales, ofreciendo una visión utópica y profundamente introspectiva de un posible mundo nuevo."
+    }
+]

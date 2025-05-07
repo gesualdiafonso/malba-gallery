@@ -1,0 +1,47 @@
+[
+    {
+        "name": "home",
+        "title": "Tienda MALBA Artistica",
+        "description": "Presentación inicial de un proyecto malba con relación a vendas de pinturas ilustractivas a nuestros artistas Argentinos Locales conocidos."
+    },
+    {
+        "name": "about",
+        "title": "Quienes somos",
+        "description": "Quien es MALBA, un mueso localizado en Argentina con las inumeras islutraciones artisticas de LATAM"
+    },
+    {
+        "name": "galery",
+        "title": "Productos",
+        "description": "Galeria que conpone mas de 15 productos de nuestros 4 mejores artistas conocidos mundialmente, Christian Motinegro, Antonio Berni, Ad Minoliti, Xul Solar."
+    },
+    {
+        "name": "category",
+        "title": "Categorias Ilustración, Arte o Pintura",
+        "description": "Bienvenido a selección de filtros de nuestra galeria, filtro a Ilustraciones, Artes y Pinturas diferenciadas y personalizadas."
+    },
+    {
+        "name": "artista",
+        "title": "Artistas Crhsitian Montenegro, Antonio Berni, Ad Minoliti, Xul Solar.",
+        "description": "Bienvenido a la historia de cada uno de nuestros artisitas, viajamos un poco a sus movimiento, biografia, criticas y sus artes publicadas en nuestra galeria"
+    },
+    {
+        "name": "producto",
+        "title": "Especificaciones tecnicas del producto",
+        "description": "Pagina dedicada a la exibición mas avanzada de las especificaciones tecnicas de nuestro productos por separado a cada uno."
+    },
+    {
+        "name": "envio",
+        "title": "Concentimiento y Curadoria para Envios.",
+        "description": "Envio a todo país, después de preenchido nuestro formulario de concentimiento e intereses daremos por iniciado la evalución de la curadoria para envios."
+    },
+    {
+        "name": "thanks",
+        "title": "Agradecimiento",
+        "description": "Agradecemos por preencher nuestro formulario de concentimiento y curadoria, en la brevetud entraremos en contacto con ustedes!"
+    },
+    {
+        "name": "dev",
+        "title": "Dessarrollado por Afonso Gesualdi",
+        "description": "Desarrollado por Afonso Arruda Gesualdi, alumno de Da Vinci - Escuela de Multimedia, Argentina, en año de 2025."
+    }
+]
