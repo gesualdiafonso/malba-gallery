@@ -80,7 +80,7 @@ $msg = "Estamos testeando el sistema de rutas, por lo tanto estás en la vista d
     <!-- Links css global -->
     <link rel="stylesheet" href="public/style/global.css">
 
-    <link rel="shortcut icon" href="public/assets/ICONO.svg" type="image/x-icon">
+    <link rel="shortcut icon" href="public/images/ICONO.svg" type="image/x-icon">
 
     <title><?= $views->getTitle(); ?></title>
 </head>
