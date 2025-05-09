@@ -22,7 +22,7 @@
         "publication": 2019,
         "description": "Obra que retrata a fusão entre o homem e a tecnologia, representando redes neurais com uma estética cyberpunk sul-americana.",
         "informe": "Ilustración de la obra que retrata una fusión del homem y la tecnologia.",
-        "image": "public/images/artes/cristian_montenegro/los_visuales.jpeg",
+        "image": "public/images/artes/cristian_montenegro/los_visuales.jpg",
         "price": 42100
     },
     {
@@ -165,7 +165,7 @@
         "publication": 1962,
         "description": "Cena alegórica que critica o consumismo e a desigualdade social através de simbolismos visuais intensos.",
         "informe": "Una Pintura critica al consumismo y desigualdade social.",
-        "image": "public/images/artes/antonio_berni/gran_tencion.JPG",
+        "image": "public/images/artes/antonio_berni/gran_tencion.jpg",
         "price": 75800
     },
     {
@@ -230,7 +230,7 @@
         "publication": 1927,
         "description": "Dragão alado construído com formas geométricas e cores arquetípicas, representando forças ocultas.",
         "informe": "Una pintura de un Dargon alado contruido por formas geométricas y cores arquetipicas.",
-        "image": "public/images/artes/xul_solar/drago.png.webp",
+        "image": "public/images/artes/xul_solar/drago.jpg",
         "price": 72200
     },
     {
@@ -243,7 +243,7 @@
         "publication": 1949,
         "description": "Obra-conceito que propõe um jogo místico baseado em idiomas e geometrias próprios do artista.",
         "informe": "Una obra conceito que propone un juego mistico basado en los idiomas.",
-        "image": "public/images/artes/xul_solar/panjuego.jpg.avif",
+        "image": "public/images/artes/xul_solar/panjuego.jpg",
         "price": 84500
     },
     {
